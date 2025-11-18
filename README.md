@@ -57,10 +57,10 @@ We champion domain construction methods like those used by n8n, but we also supp
 
 All available domain data is stored in **CSV format** in the [`/data`](./data) folder to ensure machine readability and high efficiency. You can also quickly navigate to the curated index pages using the links below.
 
-| Length/Type | TLD Coverage | Index Page (Curated List) | Raw Data (CSV) |
-| :--- | :--- | :--- | :--- |
-| **💎 3-Char** | `.ai, .us, .uk, ...` | [👉 3-Char Domain Overview](./domains_3/)
-| **✨ 4-Char** | | [👉 4-Char Domain Overview](./domains/4_char_index.md)
+| Length/Type | TLD Coverage | Index Page (Curated List) |
+| :--- | :--- | :--- |
+| **💎 3-Char** | `.ai, .us, .uk, ...` | [👉 3-Char Domain Overview](./domain_3/)|
+| **✨ 4-Char** | | [👉 4-Char Domain Overview](./domain_4/)|
 
 ---
 
