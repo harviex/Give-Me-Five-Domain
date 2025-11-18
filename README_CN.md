@@ -1,6 +1,6 @@
 # 🔱 摩域公共短域名库/赛博菩萨颂唱 (Cyber Boddhisattva Chant / Modern Domain Index)（2025.11）
 
-[ENGLISH](./README.md)[CHINESE](././README_CN.md)[JAPANESE](./README_JP.md)
+[ENGLISH](./README.md) [CHINESE](././README_CN.md) [JAPANESE](./README_JP.md)
 
 > **“我们以字符的重复与精进，颂唱赛博之理，臻选至简之域。”**
 > 
