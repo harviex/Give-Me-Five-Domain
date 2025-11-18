@@ -59,8 +59,8 @@ All available domain data is stored in **CSV format** in the [`/data`](./data) f
 
 | Length/Type | TLD Coverage | Index Page (Curated List) | Raw Data (CSV) |
 | :--- | :--- | :--- | :--- |
-| **💎 3-Char** | `.ai, .us, .uk, ...` | [👉 3-Char Domain Overview](./domains_3/) |
-| **✨ 4-Char** | | [👉 4-Char Domain Overview](./domains/4_char_index.md) | [📦 /data/4-char_latest.csv](./data/4-char_latest.csv) |
+| **💎 3-Char** | `.ai, .us, .uk, ...` | [👉 3-Char Domain Overview](./domains_3/)
+| **✨ 4-Char** | | [👉 4-Char Domain Overview](./domains/4_char_index.md)
 
 ---
 
